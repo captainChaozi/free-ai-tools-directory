@@ -9,6 +9,7 @@
 > Discover free AI image generators, photo editors, and background removers. Create and edit stunning visuals at no cost.
 
 ### AI Image Generator
+- [ImgFast](https://imgfast.org) - Free starter credits / Text-to-image, reference image editing, photo editing, background removal, enhancement, and a continuous visual workspace / One-time credit packs available
 
 -   [Adobe](https://adobe.com) - Free trial / Creativity & Design / PDF & E-signatures
 -   [Freepik AI Image Generator](https://www.freepik.com/ai/image-generator) - 20 generations per day / Real-time AI image generation / Photorealistic image generation / Image upscaling
@@ -781,6 +782,7 @@
 -   [QR Code AI](http://qrcodeswithai.com) - Free 3 QR codes / AI-Powered Artistic QR Codes / Customizable Designs / Tracking & Analytics
 -   [Qriginals](https://www.qriginals.com) - 30 FREE credits / AI-driven QR code generator / Community Templates - From $5 for 15 credits
 -   [Nano Banana | Nanana AI](https://nanana.app) - 2 free generations / AI Image Generation / AI Image Editing / No Registration Required
+-   
 -   [ImagineQr](https://imagineqr.io) - 5 QRs / month / Create stunning AI QR codes / Fully-customizable QR codes - From $9/month
 -   [ImagineQR](https://www.gameofprompts.ai) - AI-powered unique, visually stunning QR codes / QR codes nestled within images
 -   [mi.nimax.me](https://mi.nimax.me) - Free to claim / Short link & minipage creation / AI generated QR codes & business cards
