@@ -781,7 +781,7 @@
 -   [Kamero](https://kamero.in) - First Event Free / AI-Powered Photo Sharing / AI-Face Recognition
 -   [QR Code AI](http://qrcodeswithai.com) - Free 3 QR codes / AI-Powered Artistic QR Codes / Customizable Designs / Tracking & Analytics
 -   [Qriginals](https://www.qriginals.com) - 30 FREE credits / AI-driven QR code generator / Community Templates - From $5 for 15 credits
--   [Nano Banana | Nanana AI](https://nanana.app) - 2 free generations / AI Image Generation / AI Image Eding / No Registration Required
+-   [Nano Banana | Nanana AI](https://nanana.app) - 2 free generations / AI Image Generation / AI Image Edin / No Registration Required
 -   
 -   [ImagineQr](https://imagineqr.io) - 5 QRs / month / Create stunning AI QR codes / Fully-customizable QR codes - From $9/month
 -   [ImagineQR](https://www.gameofprompts.ai) - AI-powered unique, visually stunning QR codes / QR codes nestled within images
